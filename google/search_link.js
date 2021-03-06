@@ -1,0 +1,1 @@
+function(){ p=prompt('Search term:',''); if(p){ document.location.href='http://www.google.com/cse?url=' + escape(document.location.href) + '&cref=http%3A%2F%2Fwww.google.com%2Fcse%2Ftools%2Fmakecse%3Furl%3D' + escape(document.location.href) + '&q='+escape(p)} }

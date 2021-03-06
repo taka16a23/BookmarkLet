@@ -1,0 +1,1 @@
+%28function%28i%2Cj%2Ck%2Cl%2Cm%29%7Bl%3Dk.length%3Bm%3Dl%2B\"%20links.\"%3Bwhile%28i%3Cl%26%26%28l%3D%3D1%7C%7C%28i%25j%7C%7C%28i%3Fconfirm%28i%2B\"%20of%20\"%2Bm%29%3A%28j%3Dprompt%28\"There%20are%20\"%2Bm%2B\"%5CnHow%20many%20links%20do%20you%20open%20at%20a%20time%3F\"%2Cj%3Cl%3Fj%3Al%29%29%29%29%29%29open%28k%5Bi%2B%2B%5D%29%7D%29%280%2C15%2Cdocument.links%29%0D

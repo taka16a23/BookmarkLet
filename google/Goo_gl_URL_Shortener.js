@@ -1,0 +1,1 @@
+var%20uri=window.location.href;xhr=new%20XMLHttpRequest();xhr.open('POST','https://www.googleapis.com/urlshortener/v1/url',false);xhr.setRequestHeader('Content-Type','application/json');xhr.send(JSON.stringify({longUrl:uri}));var%20json=xhr.responseText;var%20obj=JSON.parse(json);alert(obj.id);

@@ -1,0 +1,1 @@
+WN7z=open('','Z6','width=400,height=200,scrollbars,resizable,menubar');DL5e=document.links;with(WN7z.document){write('\u003Cbase target=_blank>');for(lKi=0;lKi\u003CDL5e.length;lKi++){write(DL5e[lKi].toString().link(DL5e[lKi])+'\u003Cbr>\u003Cbr>')};void(close())}

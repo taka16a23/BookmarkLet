@@ -1,0 +1,1 @@
+for(nIx5Bs=0;nIx5Bs\u003Cdocument.all.length;nIx5Bs++){if(document.all[nIx5Bs].tagName=='A'){with(document.all[nIx5Bs].style){if(backgroundColor=='yellow'){void(backgroundColor=document.bgColor)}else{void(backgroundColor='yellow')}}}}

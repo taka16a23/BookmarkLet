@@ -1,0 +1,1 @@
+A14nH=location.href;L3f7=prompt('Choose%20File%201',A14nH);R1Gh7=prompt('Choose%20File%202',L3f7);if(L3f7&&R1Gh7){Fr4Q='\u003Cframeset%20cols=\\'*,*\\'>\\n\u003Cframe%20src=\\''+L3f7+'\\'/>';Fr4Q+='\u003Cframe%20src=\\''+R1Gh7+'\\'/>\\n';Fr4Q+='\u003C/frameset>';with(document){write(Fr4Q);void(close())}}else{void(null)}

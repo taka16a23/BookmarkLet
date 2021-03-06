@@ -1,0 +1,1 @@
+function whois(){var url = location.href;var arr1=url.split('/');var arr2 = arr1[2].split('.');var uri = arr2[arr2.length-2]+'.'+arr2[arr2.length-1];location.href='http://whois.ansi.co.jp/?key='+uri;}whois();

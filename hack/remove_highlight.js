@@ -1,0 +1,1 @@
+function()%7Bvar style%3Ddocument.createElement(\"style\")%3Bstyle.type%3D\"text/css\"%3Bstyle.innerText%3D\"* %7B -webkit-user-select: all !important%3B -moz-user-select: all !important%3B user-select: all !important%3B %7D\"%3Bvar head%3Ddocument.getElementsByTagName(\"head\")%5B0%5D%3Bhead.appendChild(style)%3B%7D

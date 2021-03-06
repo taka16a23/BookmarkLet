@@ -1,0 +1,1 @@
+%28function%28%29%7Bwindow.open%28%27http%3A%2F%2Fwww.google.co.jp%2Fsearch%3Fhl%3Dja%26q%3D%27%2Bdocument.getSelection%28%29%2B%27%2583h%2583%258B%2582%25F0%2593%25FA%2596%7B%2589~%2582%25C9%27%29%3B%7D%29%28%29%3B%0D

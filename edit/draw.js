@@ -1,0 +1,1 @@
+if(o=document.getElementById('ldf')){void(o.outerHTML='');}else{void(document.body.innerHTML+='\u003Ciframe id=\"ldf\" scrolling=\"no\" allowtransparency=\"true\"%20src=\"linedraw.html\"%20style=\"position:absolute;z-index:100;top:0px;left:0px;width:100%;height:3000px;\">\u003C/iframe>')}

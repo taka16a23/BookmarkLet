@@ -1,0 +1,1 @@
+var wN2scRl;S3g=new Function('clearTimeout(wN2scRl)');document.onkeydown=S3g;a7T=prompt('%E9%80%9F%E5%BA%A6%EF%BC%88%EF%BC%91 %EF%BC%98%EF%BC%89','');if(a7T!=null){S3g();void(wN2scRl=setInterval('if(pageYOffset\u003Cdocument.height-innerHeight){scrollBy(0,a7T)}else{S3g()}',50))}else{void(null)}

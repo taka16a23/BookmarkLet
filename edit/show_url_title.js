@@ -1,0 +1,1 @@
+function(){var url = location.href;var title = document.getElementsByTagName('title');title = title[0].innerHTML;prompt('%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84',url+' - '+title);}

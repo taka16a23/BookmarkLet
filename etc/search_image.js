@@ -1,0 +1,1 @@
+function() {var d = document;var u = location.href;var f = d.createElement('form');f.action = 'http://www.ascii2d.net/imagesearch/search';f.method = 'post';f.name = 'myform';f.id = 'myform';var i = d.createElement('input');i.type = 'hidden';i.name = 'uri';i.value = u;f.appendChild(i);d.body.appendChild(f);d.getElementById('myform').submit();}

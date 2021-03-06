@@ -1,0 +1,1 @@
+function(){%20var%20q%20=%20window.getSelection%20?%20getSelection()%20:%20document.selection%20?%20document.selection.createRange().text%20:%20'';%20if%20(q%20==%20'')%20q%20=%20prompt('%E6%A4%9C%E7%B4%A2%E8%AA%9E%E3%81%AF%EF%BC%9F',%20'');%20if(q)%20window.open('http://www.google.co.jp/search?as_qdr=d&q='+encodeURIComponent(q)+');}
